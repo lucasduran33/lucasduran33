@@ -7,8 +7,8 @@
 
 - 🚀 <div>
   <h3>
-  Hola soy Lucas Duran de argentina, soy una persona apasionada y autodidacta, en el mundo it me interesa el Front-end ya que me gusta el diseño y las conexiones que proveen librerias como react y su forma de trabajar,Actualemnte trabajando en un proyecto en React-native, me gusta desafiarme y ampliar mis conocimientos de programacion </h3>
-
+  Hola soy Lucas Duran de argentina, soy una persona apasionada y autodidacta, en el mundo it me interesa el Desarrollo full stack ya que me gusta el diseño y las conexiones que proveen las bases de dato como SQL y Moongo y su forma de trabajar, ver el camino que recorre la data antes de ser renderizada y arreglar los bugs ver estos recorridos me entusiasma y me atrapa. Actualmente estoy trabajando como tutor de javascript en CoderHouse, puedes ver mis repositorios y proyectos para darte una idea mi manera de codear.
+</h3>
 - 🚀</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
